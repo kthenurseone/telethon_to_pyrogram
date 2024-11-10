@@ -32,8 +32,9 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 
 ## Images
-![tg](https://raw.githubusercontent.com/kthenurseone/discord_channel_copier/main/1.png)
-![tg](https://raw.githubusercontent.com/kthenurseone/discord_channel_copier/main/2.png)
+![image](https://github.com/user-attachments/assets/478a6888-3a71-46f8-a93e-2f45aeb071b5)
+![image](https://github.com/user-attachments/assets/625e1516-91be-4017-a810-6498e5d093e1)
+
 
 
 
