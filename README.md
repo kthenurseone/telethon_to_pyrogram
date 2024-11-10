@@ -1,5 +1,3 @@
-<p align="center"><a href="https://youtu.be/EjiXLrT6e4s" target="_blank"><img src="https://raw.githubusercontent.com/kthenurseone/discord_channel_copier/main/discord_copier.gif"></a></p>
-
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.12-blue.svg?style=plastic" alt="Python version"></a>
 </p>
